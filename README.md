@@ -50,3 +50,5 @@ https://github.com/chinarulezzz/nmap-extra-nse
 
 https://github.com/psc4re/NSE-scripts
 
+https://github.com/giterlizzi/nmap-log4shell
+
